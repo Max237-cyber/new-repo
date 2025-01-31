@@ -3,7 +3,7 @@
 ### idea of blockchain
 ```mermaid
   graph TD;
-      private key--> Public key;
+      A-->B;
       A-->C;
       B-->D;
       C-->D;
